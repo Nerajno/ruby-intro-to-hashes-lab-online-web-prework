@@ -1,5 +1,5 @@
 def new_hash
-  car = { "brand"=> "Toyota"}
+  car = { :brand=> "Toyota"}
 end
 
 def actor
